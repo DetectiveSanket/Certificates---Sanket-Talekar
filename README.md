@@ -2,16 +2,35 @@
 
 A collection of my professional certificates and course completions from LinkedIn Learning and other providers.
 
-![LinkedIn Learning](https://img.shields.io/badge/Platform-LinkedIn%20Learning-blue)
+![LinkedIn Learning](https://img.shields.io/badge/Platform-LinkedIn%20Learning-blue)<br>
+![Microsoft](https://img.shields.io/badge/Platform-Microsoft-blueviolet)<br>
+![Github](https://img.shields.io/badge/Platform-Github-black)<br>
+![IIT](https://img.shields.io/badge/Platform-IIT%20EdTech%20Society-success)<br>
+![Alison](https://img.shields.io/badge/Platform-Alison-yellowgreen)<br>
+![Oracle](https://img.shields.io/badge/Platform-Oracle-red)<br>
+![Infosys](https://img.shields.io/badge/Platform-Infosys-blue)<br>
+![Great Learning](https://img.shields.io/badge/Platform-Great%20Learning-blueviolet)<br>
+![Nikistian](https://img.shields.io/badge/Platform-Nikistian%20Private%20ltd-black)<br>
+![Intellipaat](https://img.shields.io/badge/Platform-Intellipaat-blue)
 
 ## Contact
 
-- **Phone**: [+91-7278761717](tel:+917278761717)
 - **Email**: [sankettalekar896@gmail.com](mailto:sankettalekar896@gmail.com)
 - **LinkedIn**: [Sanket Talekar](https://www.linkedin.com/in/sanket-talekar-94087a263)
-- **GitHub**: [github.com/Sanket](https://github.com/Sanket)
-- **Instagram**: [Sanket_Talekar_1717](https://www.instagram.com/sanket_talekar1717/)
+- **GitHub**: [github.com/DetectiveSanket](https://github.com/DetectiveSanket)
 - **Portfolio**: [Sanket Talekar](https://sanketprogrammer.netlify.app/)
+- **Instagram**: [Sanket_Talekar_1717](https://www.instagram.com/sanket_talekar1717/)
+- **X / Twitter**: [@SanketTalekar17](https://x.com/SanketTalekar17)
+
+## 🌐 Coding Profiles & Other Platforms
+
+| Platform | Link |
+|---|---|
+| 🧩 **LeetCode** | [sankettalekar896](https://leetcode.com/u/sankettalekar896/) |
+| 🟢 **GeeksForGeeks** | [sankettalhufl](https://www.geeksforgeeks.org/user/sankettalhufl/) |
+| 🚀 **Naukri Code360** | [SanketNiza](https://www.naukri.com/code360/profile/SanketNiza) |
+| 🔶 **Stack Overflow** | [Sanket Talekar](https://stackoverflow.com/questions?newreg=6e6243e69a074c4ca69ab936d282ca4d) |
+| 📝 **WordPress Blog** | [sanketninza.wordpress.com](https://sanketninza.wordpress.com) |
 
 ## Verification
 
@@ -51,29 +70,7 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 ## Gallery
 
 <table>
-  <tr>
-    <td align="center">
-      <a href="Assets/My LinkedIn/CSS Essential Training.png">
-        <img src="Assets/thumbnails/CSS Essential Training.png" width="250" alt="CSS Essential Training">
-      </a>
-      <br>
-      <b>CSS Essential Training</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Copilot.png">
-        <img src="Assets/thumbnails/Copilot.png" width="250" alt="Copilot">
-      </a>
-      <br>
-      <b>Copilot</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Full Stack Web Developer.png">
-        <img src="Assets/thumbnails/Full Stack Web Developer.png" width="250" alt="Full Stack Web Developer">
-      </a>
-      <br>
-      <b>Full Stack Web Developer</b>
-    </td>
-  </tr>
+  <!-- Row 1: Gen AI | Oracle Gen AI | MYSQL -->
   <tr>
     <td align="center">
       <a href="Assets/My LinkedIn/Gen AI.png">
@@ -81,121 +78,6 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       </a>
       <br>
       <b>Gen AI</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Github Action by Github.png">
-        <img src="Assets/thumbnails/Github Action by Github.png" width="250" alt="Github Action by Github">
-      </a>
-      <br>
-      <b>Github Action by Github</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Introduction to AI.png">
-        <img src="Assets/thumbnails/Introduction to AI.png" width="250" alt="Introduction to AI">
-      </a>
-      <br>
-      <b>Introduction to AI</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="Assets/My LinkedIn/JavaScript Essential Training.png">
-        <img src="Assets/thumbnails/JavaScript Essential Training.png" width="250" alt="JavaScript Essential Training">
-      </a>
-      <br>
-      <b>JavaScript Essential Training</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Learning Full Stack JavaScript Development MongoDB Node  and React.png">
-        <img src="Assets/thumbnails/Learning Full Stack JavaScript Development MongoDB Node  and React.png" width="250" alt="Learning Full Stack JavaScript Development">
-      </a>
-      <br>
-      <b>Learning Full Stack JavaScript Development</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Node.js Essential Training.png">
-        <img src="Assets/thumbnails/Node.js Essential Training.png" width="250" alt="Node.js Essential Training">
-      </a>
-      <br>
-      <b>Node.js Essential Training</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Practical GitHub Action.png">
-        <img src="Assets/thumbnails/Practical GitHub Action.png" width="250" alt="Practical GitHub Action">
-      </a>
-      <br>
-      <b>Practical GitHub Action</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Practical GitHub Copilot.png">
-        <img src="Assets/thumbnails/Practical GitHub Copilot.png" width="250" alt="Practical GitHub Copilot">
-      </a>
-      <br>
-      <b>Practical GitHub Copilot</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Practical GitHub Project Management and Collaboration.png">
-        <img src="Assets/thumbnails/Practical GitHub Project Management and Collaboration.png" width="250" alt="Practical GitHub Project Management">
-      </a>
-      <br>
-      <b>Practical GitHub Project Management</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Project Management by Microsoft.png">
-        <img src="Assets/thumbnails/Project Management by Microsoft.png" width="250" alt="Project Management by Microsoft">
-      </a>
-      <br>
-      <b>Project Management by Microsoft</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/REST Full API.png">
-        <img src="Assets/thumbnails/REST Full API.png" width="250" alt="REST Full API">
-      </a>
-      <br>
-      <b>REST Full API</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/React.png">
-        <img src="Assets/thumbnails/React.png" width="250" alt="React">
-      </a>
-      <br>
-      <b>React</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="Assets/My LinkedIn/Software Developer.png">
-        <img src="Assets/thumbnails/Software Developer.png" width="250" alt="Software Developer">
-      </a>
-      <br>
-      <b>Software Developer</b>
-    </td>
-    <td align="center">
-      <a href="Assets/My LinkedIn/TypeScript.png">
-        <img src="Assets/thumbnails/TypeScript.png" width="250" alt="TypeScript">
-      </a>
-      <br>
-      <b>TypeScript</b>
-    </td>
-    <td align="center">
-      <a href="Assets/Others/IIT Internship .jpg">
-        <img src="Assets/thumbnails/IIT Internship .jpg" width="250" alt="IIT Internship">
-      </a>
-      <br>
-      <b>IIT Internship</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="Assets/Others/Python.jpg">
-        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
-      </a>
-      <br>
-      <b>Python</b>
     </td>
     <td align="center">
       <a href="Assets/Others/Oracle Gen Ai.png">
@@ -212,7 +94,159 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>MYSQL</b>
     </td>
   </tr>
+  <!-- Row 2: IIT Internship | MERN Stack | Software Developer -->
   <tr>
+    <td align="center">
+      <a href="Assets/Others/IIT Internship .jpg">
+        <img src="Assets/thumbnails/IIT Internship .jpg" width="250" alt="IIT Internship">
+      </a>
+      <br>
+      <b>IIT Internship</b>
+    </td>
+    <td align="center">
+      <a href="Assets/Others/Mern stack.jpg">
+        <img src="Assets/thumbnails/image.png" width="250" alt="MERN Stack">
+      </a>
+      <br>
+      <b>MERN Stack</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Software Developer.png">
+        <img src="Assets/thumbnails/Software Developer.png" width="250" alt="Software Developer">
+      </a>
+      <br>
+      <b>Software Developer</b>
+    </td>
+  </tr>
+  <!-- Row 3: Github Action by Github | Introduction to AI | Full Stack Web Developer -->
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Github Action by Github.png">
+        <img src="Assets/thumbnails/Github Action by Github.png" width="250" alt="Github Action by Github">
+      </a>
+      <br>
+      <b>Github Action by Github</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Introduction to AI.png">
+        <img src="Assets/thumbnails/Introduction to AI.png" width="250" alt="Introduction to AI">
+      </a>
+      <br>
+      <b>Introduction to AI</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Full Stack Web Developer.png">
+        <img src="Assets/thumbnails/Full Stack Web Developer.png" width="250" alt="Full Stack Web Developer">
+      </a>
+      <br>
+      <b>Full Stack Web Developer</b>
+    </td>
+  </tr>
+  <!-- Row 4: REST Full API | TypeScript | React -->
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/REST Full API.png">
+        <img src="Assets/thumbnails/REST Full API.png" width="250" alt="REST Full API">
+      </a>
+      <br>
+      <b>REST Full API</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/TypeScript.png">
+        <img src="Assets/thumbnails/TypeScript.png" width="250" alt="TypeScript">
+      </a>
+      <br>
+      <b>TypeScript</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/React.png">
+        <img src="Assets/thumbnails/React.png" width="250" alt="React">
+      </a>
+      <br>
+      <b>React</b>
+    </td>
+  </tr>
+  <!-- Row 5: Project Management by Microsoft | Practical GitHub Action | Practical GitHub Copilot -->
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Project Management by Microsoft.png">
+        <img src="Assets/thumbnails/Project Management by Microsoft.png" width="250" alt="Project Management by Microsoft">
+      </a>
+      <br>
+      <b>Project Management by Microsoft</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Practical GitHub Action.png">
+        <img src="Assets/thumbnails/Practical GitHub Action.png" width="250" alt="Practical GitHub Action">
+      </a>
+      <br>
+      <b>Practical GitHub Action</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Practical GitHub Copilot.png">
+        <img src="Assets/thumbnails/Practical GitHub Copilot.png" width="250" alt="Practical GitHub Copilot">
+      </a>
+      <br>
+      <b>Practical GitHub Copilot</b>
+    </td>
+  </tr>
+  <!-- Row 6: Practical GitHub Project Management | Learning Full Stack JS | Node.js Essential Training -->
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Practical GitHub Project Management and Collaboration.png">
+        <img src="Assets/thumbnails/Practical GitHub Project Management and Collaboration.png" width="250" alt="Practical GitHub Project Management">
+      </a>
+      <br>
+      <b>Practical GitHub Project Management</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Learning Full Stack JavaScript Development MongoDB Node  and React.png">
+        <img src="Assets/thumbnails/Learning Full Stack JavaScript Development MongoDB Node  and React.png" width="250" alt="Learning Full Stack JavaScript Development">
+      </a>
+      <br>
+      <b>Learning Full Stack JavaScript Development</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Node.js Essential Training.png">
+        <img src="Assets/thumbnails/Node.js Essential Training.png" width="250" alt="Node.js Essential Training">
+      </a>
+      <br>
+      <b>Node.js Essential Training</b>
+    </td>
+  </tr>
+  <!-- Row 7: JavaScript Essential Training | CSS Essential Training | Copilot -->
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/JavaScript Essential Training.png">
+        <img src="Assets/thumbnails/JavaScript Essential Training.png" width="250" alt="JavaScript Essential Training">
+      </a>
+      <br>
+      <b>JavaScript Essential Training</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/CSS Essential Training.png">
+        <img src="Assets/thumbnails/CSS Essential Training.png" width="250" alt="CSS Essential Training">
+      </a>
+      <br>
+      <b>CSS Essential Training</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Copilot.png">
+        <img src="Assets/thumbnails/Copilot.png" width="250" alt="Copilot">
+      </a>
+      <br>
+      <b>Copilot</b>
+    </td>
+  </tr>
+  <!-- Row 8: Python | Ethical Hacking | Python (Async) -->
+  <tr>
+    <td align="center">
+      <a href="Assets/Others/Python.jpg">
+        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
+      </a>
+      <br>
+      <b>Python</b>
+    </td>
     <td align="center">
       <a href="Assets/Others/Hacking.png">
         <img src="Assets/thumbnails/Hacking.png" width="250" alt="Ethical Hacking">
@@ -227,21 +261,15 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <br>
       <b>Python (Asynchronous Execution)</b>
     </td>
+  </tr>
+  <!-- Row 9: Python (MultiProcessing) -->
+  <tr>
     <td align="center">
       <a href="Assets/Others/Python Multi.jpg">
         <img src="Assets/thumbnails/Python Multi.jpg" width="250" alt="Python (Multi Processing)">
       </a>
       <br>
       <b>Python (MultiProcessing)</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="Assets/Others/Mern stack.jpg">
-        <img src="Assets/thumbnails/image.png" width="250" alt="MERN Stack">
-      </a>
-      <br>
-      <b>MERN Stack</b>
     </td>
   </tr>
 </table>
