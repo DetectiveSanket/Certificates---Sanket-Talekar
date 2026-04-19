@@ -29,7 +29,7 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 | 6 | TypeScript | LinkedIn Learning | 2025 | 2 hours 15 minutes | TypeScript, JavaScript | typescript | [View](Assets/My%20LinkedIn/TypeScript.png) |
 | 7 | IIT Internship | IIT - EdTech Society | 2025 | 4 Month | Internship | IIT-bombay-internship | [View](Assets/Others/IIT%20Internship%20.jpg) |
 | 8 | MERN Stack | Alison | 2025 | 16 hours 25 minutes | MERN Stack | mern-stack | [View](Assets/Others/Mern%20stack.jpg) |
-| 9 | Oracle Gen AI | Oracle | 2025 | 43 hours 54 minutes | Generative AI, AI Professional | oracle-gen-ai | [View](Assets/Others/Oracal%20Gen%20Ai.jpg) |
+| 9 | Oracle Gen AI | Oracle | 2025 | 43 hours 54 minutes | Generative AI, AI Professional | oracle-gen-ai | [View](Assets/Others/Oracle%20Gen%20Ai.png) |
 | 10 | CSS Essential Training | LinkedIn Learning | 2024 | 5 hours 26 minutes | CSS, Web Design | css-essential-training | [View](Assets/My%20LinkedIn/CSS%20Essential%20Training.png) |
 | 11 | Copilot | LinkedIn Learning | 2024 | 35 minutes | AI in Business, ChatGPT | copilot | [View](Assets/My%20LinkedIn/Copilot.png) |
 | 12 | Full Stack Web Developer | LinkedIn Learning | 2024 | 29 hours 53 minutes | Full Stack, Web Development | full-stack-web-developer | [View](Assets/My%20LinkedIn/Full%20Stack%20Web%20Developer.png) |
@@ -40,12 +40,12 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 | 17 | Project Management by Microsoft | LinkedIn Learning & Microsoft | 2024 | 14 hours 40 minutes | Project Management, Microsoft | project-management-by-microsoft | [View](Assets/My%20LinkedIn/Project%20Management%20by%20Microsoft.png) |
 | 18 | React | LinkedIn Learning | 2024 | 2 hours 1 minutes | React, Frontend | react | [View](Assets/My%20LinkedIn/React.png) |
 | 19 | Software Developer | LinkedIn Learning | 2024 | 31 hours 10 minutes | Software Development, Engineering | software-developer | [View](Assets/My%20LinkedIn/Software%20Developer.png) |
-| 20 | Python certificate | Infosys | 2024 | 3 hours 35 minutes | Multiprocessing in python | python-certificate | [View](Assets/Others/Python%20certificate.pdf) |
+| 20 | Python certificate | Infosys | 2024 | 3 hours 35 minutes | Multiprocessing in python | python-certificate | [View](Assets/Others/pdf/Python%20certificate.pdf) |
 | 21 | Python | Great Learning | 2024 | 4 hours 55 minutes | Python Fundamentals | python | [View](Assets/Others/Python.jpg) |
-| 22 | python 2 | Infosys | 2024 | 3 hours 40 minutes | Asynchronous Execution | python | [View](Assets/Others/python%202.pdf) |
+| 22 | python 2 | Infosys | 2024 | 3 hours 40 minutes | Asynchronous Execution | python | [View](Assets/Others/pdf/python%202.pdf) |
 | 23 | JavaScript Essential Training | LinkedIn Learning | 2023 | 5 hours 40 minutes | JavaScript, Web Development | javascript-essential-training | [View](Assets/My%20LinkedIn/JavaScript%20Essential%20Training.png) |
-| 24 | Hacking Course Completion Certificate | Nikistian Private ltd | 2023 | 5 hours | Hacking, Security | hacking-course-completion-certificate | [View](Assets/Others/Hacking%20Course%20Completion%20Certificate.pdf) |
-| 25 | MYSQL | Intellipaat | 2023 | 15 hours 45 minutes | MySQL, Database | mysql | [View](Assets/Others/MYSQL.pdf) |
+| 24 | Hacking Course Completion Certificate | Nikistian Private ltd | 2023 | 5 hours | Hacking, Security | hacking-course-completion-certificate | [View](Assets/Others/pdf/Hacking%20Course%20Completion%20Certificate.pdf) |
+| 25 | MYSQL | Intellipaat | 2023 | 15 hours 45 minutes | MySQL, Database | mysql | [View](Assets/Others/MYSQL.jpg) |
 
 
 ## Gallery
@@ -264,7 +264,7 @@ Feel free to check out my resume below and connect with me!
 
 <div align="center">
 
-📄 **[View / Download My Resume (PDF)](Assets/Others/SanketTalekar_Resume.pdf)**
+📄 **[View / Download My Resume (PDF)](https://github.com/DetectiveSanket/Certificates---Sanket-Talekar/raw/main/Assets/Others/SanketTalekar_Resume.pdf)**
 
 
 > **Note:** GitHub does not render PDF files inline. Click the link above to open or download the full resume PDF.
