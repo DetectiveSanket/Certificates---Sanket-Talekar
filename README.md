@@ -276,17 +276,9 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 
 ## 🚀 About Me & Connect
 
-I'm Sanket Talekar, a fresher Full Stack Developer and AI Engineer with a B.Tech in Computer Science (CGPA 8.60, May 2026) from D.Y. Patil College of Engineering & Technology, Kolhapur.
+Hi there! I'm **Sanket Sanjay Talekar** — a B.Tech Computer Science & Engineering student at **D.Y. Patil College of Engineering & Technology, Kolhapur** (CGPA: 8.32, Nov 2022 – June 2026). I'm a passionate full-stack developer with hands-on experience in building AI-powered, production-grade web applications. 🌟
 
-I specialize in building full-stack web applications and production-grade AI systems. My core stack includes React.js, Node.js, Express.js, MongoDB, LangChain, LangGraph, Pinecone, Redis, and AWS S3.
-
-My flagship project, NyayaSathi, is a fully deployed AI-powered legal document assistant built using a complete RAG pipeline — from PDF ingestion and vector embeddings to conversational Q&A using Google Gemini. It's live in production, not just a demo.
-
-I also contributed to an AI Interview Platform at IIT Bombay EdTech, building automated candidate evaluation workflows using LangChain, LangGraph, and n8n.
-
-I'm an immediate joiner, actively looking for Full Stack or AI Engineering roles where I can build real things and grow fast.🚀
-
-I had worked as a **Junior Web Developer Intern** at **The Business Legacy** (from Feb 2026 - May 2026), where I was responsible for engineering responsive UI components and conducting applied research on LLM fine-tuning and agentic AI frameworks.
+Currently working as a **Junior Web Developer Intern** at **The Business Legacy**, where I engineer responsive UI components and conduct applied research on LLM fine-tuning and agentic AI frameworks.
 
 **Technical Skills:**
 - 💻 **Languages**: C++, JavaScript, TypeScript, SQL, Python
