@@ -276,7 +276,7 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 
 ## 🚀 About Me & Connect
 
-Hi there! I'm **Sanket Sanjay Talekar** — a B.Tech Computer Science & Engineering student at **D.Y. Patil College of Engineering & Technology, Kolhapur** (CGPA: 8.32, Nov 2022 – June 2026). I'm a passionate full-stack developer with hands-on experience in building AI-powered, production-grade web applications. 🌟
+Hi there! I'm **Sanket Sanjay Talekar** — a B.Tech Computer Science & Engineering student at **D.Y. Patil College of Engineering & Technology, Kolhapur** (CGPA: 8.60, Nov 2022 – May 2026). I'm a passionate full-stack developer with hands-on experience in building AI-powered, production-grade web applications. 🌟
 
 Currently working as a **Junior Web Developer Intern** at **The Business Legacy**, where I engineer responsive UI components and conduct applied research on LLM fine-tuning and agentic AI frameworks.
 
